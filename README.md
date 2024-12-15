@@ -33,9 +33,9 @@ src/
 ├── index.js # React giriş noktası
 
 ## 🖼️ Uygulamadan Örnek görseller
-<img width="912" alt="Ekran Resmi 2024-11-22 23 24 55" src="https://github.com/user-attachments/assets/70e6c0ba-26c1-4249-8a62-f656adcc7ebd" />
-<img width="920" alt="Ekran Resmi 2024-11-22 23 24 30" src="https://github.com/user-attachments/assets/3d851fc8-c641-4df6-b04f-19f81bba2cf9" />
-<img width="921" alt="Ekran Resmi 2024-11-22 23 24 12" src="https://github.com/user-attachments/assets/481e6739-eb3b-4f53-b8d4-2bbe335a34e3" />
+<img width="1554" alt="Ekran Resmi 2024-12-15 21 02 38" src="https://github.com/user-attachments/assets/86bf6c40-b47d-49f2-80e0-6bbdef8afd2a" />
+<img width="1659" alt="Ekran Resmi 2024-12-15 21 01 44" src="https://github.com/user-attachments/assets/eec77323-8fa7-41f6-9cd7-3bdab33529e9" />
+<img width="1642" alt="Ekran Resmi 2024-12-15 21 00 51" src="https://github.com/user-attachments/assets/a46beb00-a195-4a69-a12e-e4c1dca86e93" />
 
 
 
