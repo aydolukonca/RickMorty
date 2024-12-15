@@ -25,11 +25,17 @@ Bu proje, **Rick and Morty** karakterlerinin bilgilerini listeleyen, filtreleme 
 
 src/
 ├── assets/ # Proje görselleri (Rick ve Morty resimleri)
+
 ├── components/ # React bileşenleri (Table.js, Pagination.js)
+
 ├── context/ # Context API ile state yönetimi
+
 ├── hooks/ # Özel hook'lar (useFetchAll.js)
+
 ├── styles/ # CSS dosyaları
+
 ├── App.js # Uygulamanın ana bileşeni
+
 ├── index.js # React giriş noktası
 
 ## 🖼️ Uygulamadan Örnek görseller
