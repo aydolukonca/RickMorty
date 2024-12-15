@@ -1,0 +1,137 @@
+/* Genel Stil */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #a6cccc; /* Arka Plan Rengi */
+    color: #043c6e; /* Yazi Rengi */
+  }
+  
+  .App {
+    max-width: 900px;
+    margin: 20px auto;
+    background: #ffffff;
+    padding: 20px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+  }
+  
+  /* Baslik */
+  h1 {
+    font-family: 'Luckiest Guy', cursive; /* Google Fonts: Cizgi Film */
+    color: #043c6e;
+    text-align: center;
+    font-size: 2.5rem;
+    letter-spacing: 1px;
+  }
+  
+  /* Tablo */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  table th {
+    background-color: #043c6e; /* Tablo Baslik Rengi */
+    color: #ffffff; /* Beyaz Yazi */
+    padding: 10px;
+    text-align: left;
+  }
+  
+  table td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  table tr:nth-child(even) {
+    background-color: #f0f8ff; /* Alternatif Satir Rengi */
+  }
+  
+  table tr:hover {
+    background-color: #88e23b; /* Hover Rengi */
+    color: #ffffff;
+    cursor: pointer;
+  }
+  
+  /* Sayfa Numaralari ve Dropdown Menu */
+  .pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .pagination select {
+    padding: 10px;
+    border: 2px solid #88e23b;
+    border-radius: 5px;
+    background-color: #ffffff;
+    color: #043c6e;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .pagination select:hover {
+    background-color: #60a85f;
+    color: #ffffff;
+  }
+  
+  .pagination button {
+    background-color: #88e23b;
+    color: #043c6e;
+    border: none;
+    padding: 10px 15px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .pagination button.active {
+    background-color: #043c6e;
+    color: #ffffff;
+  }
+  
+  .pagination button:hover {
+    background-color: #60a85f;
+    color: #ffffff;
+  }
+  
+  /* Filtreleme Alani */
+  .filter-input {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+  }
+  
+  .filter-input input,
+  .filter-input select {
+    padding: 10px;
+    border: 2px solid #88e23b;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  .filter-input input:focus,
+  .filter-input select:focus {
+    outline: none;
+    border-color: #60a85f;
+  }
+  
+  /* Karakter Detaylari */
+  .character-details {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border: 2px solid #88e23b;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .character-details img {
+    width: 150px;
+    border-radius: 10px;
+    margin-top: 10px;
+  }
+  
