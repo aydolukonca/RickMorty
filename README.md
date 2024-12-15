@@ -24,7 +24,6 @@ Bu proje, **Rick and Morty** karakterlerinin bilgilerini listeleyen, filtreleme 
 ## 🗂️ Proje Yapısı
 
 src/
-├── assets/ # Proje görselleri (Rick ve Morty resimleri)
 
 ├── components/ # React bileşenleri (Table.js, Pagination.js)
 
